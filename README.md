@@ -14,3 +14,8 @@ This repository contains ports of Java Util classes to C++. It is under heavy de
 | utility     | ✔️        	|
 | proof       | ✔️        	|
 | priority_q  | ✔️        	|
+| bitarray    | ✔️        	|
+| coloring    | ✔️        	|
+| graph       | ✔️        	|
+| hash        | ✔️        	|
+| group 	  | ✔️			|
