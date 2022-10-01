@@ -19,3 +19,4 @@ This repository contains ports of Java Util classes to C++. It is under heavy de
 | graph       | ✔️        	|
 | hash        | ✔️        	|
 | group 	  | ✔️			|
+| Arraylist   | ✔️			|
